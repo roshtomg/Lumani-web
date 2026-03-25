@@ -1,5 +1,4 @@
 {
-  "rootDirectory": "artifacts/landing-page",
   "buildCommand": "npm install && npm run build",
   "outputDirectory": "dist/public",
   "installCommand": "echo skip"
