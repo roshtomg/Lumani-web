@@ -1,8 +1,5 @@
 {
   "buildCommand": "cd artifacts/landing-page && npm install && npm run build",
   "outputDirectory": "artifacts/landing-page/dist/public",
-  "installCommand": "echo skip",
-  "engines": {
-    "node": "20.x"
-  }
+  "installCommand": "echo skip"
 }
